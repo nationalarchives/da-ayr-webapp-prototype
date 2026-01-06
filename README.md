@@ -1,7 +1,7 @@
 # da-ayr-webapp
 The webapp code for the prototype of the Access Your Records (AYR) project.
 
-This is superseded by the active project https://github.com/nationalarchives/da-ayr-beta-webapp
+This is superseded by the active project https://github.com/nationalarchives/da-ayr-webapp
 
 This project consists of a Django application with a Postgres backend. Authentication and authorisation are handled
 by Keyloack using Open ID Connect protocol.
